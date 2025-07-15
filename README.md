@@ -22,6 +22,22 @@ The data model follows a **star schema** design:
 
 [![ERD](movie_schema_erd.png)][https://dbdiagram.io/d/movie_data_modeling-6870ec71f413ba35086b285d]
 
+## 🧼 Data Cleaning
+
+Performed using both **Excel** and **Python (pandas)**.
+
+🔹 Excel:
+- Preliminary cleanup
+- Removing empty columns, fixing formats
+
+🔹 Python:
+- Parsed nested JSON-style genre values
+- Created flattened structure for genre and dates
+- Exported cleaned CSVs for import
+
+📁 Notebook: [`data_cleaning.ipynb`](data_cleaning.ipynb)  
+
+
 ## 🧠 Business Questions Answered
 
 - Top-rated movies
