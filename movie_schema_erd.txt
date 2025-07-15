@@ -1,0 +1,1 @@
+ERD diagram should be inserted here (saved as movie_schema_erd.png).
