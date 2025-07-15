@@ -20,7 +20,7 @@ The data model follows a **star schema** design:
 - `dim_user`: Contains user attributes like gender and country
 - `dim_date`: Contains time-based attributes for date-based analysis
 
-[![ERD](movie_schema_erd.png)][https://dbdiagram.io/d/movie_data_modeling-6870ec71f413ba35086b285d]
+[![ERD](movie_schema_erd.png)](https://dbdiagram.io/d/movie_data_modeling-6870ec71f413ba35086b285d)
 
 ## 🧼 Data Cleaning
 
