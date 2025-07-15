@@ -47,5 +47,3 @@ Check files:
 > All data was loaded via MySQL Workbench's CSV Import Wizard for realism and speed.
 
 ---
-
-📁 A complete snapshot is available in the zipped project.
